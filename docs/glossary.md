@@ -12,4 +12,4 @@
 | **Wholesale price** | Cost to reseller or agent before retail margin |
 | **Effective dating** | Start/end validity for catalog or price changes |
 
-Live product reading: [EVMS page](https://evdsystem.com/electronic-voucher-management-system/), [evdsystem.com](https://evdsystem.com/).
+Live product reading: [EVMS page](https://evdsystem.com/electronic-voucher-management-system-evd-telecom/), [evdsystem.com](https://evdsystem.com/).

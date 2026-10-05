@@ -116,13 +116,13 @@ Yes, with currency, tax, and eligibility dimensions—or separate catalogs per l
 Batches and voucher state machines reference SKU IDs; sold value reporting joins lifecycle events to catalog attributes.
 
 **How does this relate to MoboGage / EVD System?**  
-EVD System is MoboGage’s electronic voucher distribution and management platform family; a voucher denomination catalog is how EVD software presents consistent sellable products across POS, APIs, and reseller channels. See the [electronic voucher management system](https://evdsystem.com/electronic-voucher-management-system/) page for related product context.
+EVD System is MoboGage’s electronic voucher distribution and management platform family; a voucher denomination catalog is how EVD software presents consistent sellable products across POS, APIs, and reseller channels. See the [electronic voucher management system](https://evdsystem.com/electronic-voucher-management-system-evd-telecom/) page for related product context.
 
 ---
 
 ## Further Reading / Related Industry Resources
 
-- [Electronic voucher management system](https://evdsystem.com/electronic-voucher-management-system/) — EVMS product context  
+- [Electronic voucher management system](https://evdsystem.com/electronic-voucher-management-system-evd-telecom/) — EVMS product context  
 - [EVD System home](https://evdsystem.com/) — platform overview for digital value distribution  
 
 See also [docs/glossary.md](./docs/glossary.md) for key terms.
